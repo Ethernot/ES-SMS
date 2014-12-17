@@ -18,6 +18,7 @@ interface cliente, programação do Servidor:
 	    -> parte de mandar mail em caso de avaria, help button e.g
 	    -> adicionem mais cenas....
 
+encriptacao sha1/validacao da password:Batanete
 
 
 PONTOS RELEVANTES:
